@@ -1,0 +1,8 @@
+C:\Users\lakshay\source\repos\UserSystem\UserSystem\bin\Debug\UserSystem.exe.config
+C:\Users\lakshay\source\repos\UserSystem\UserSystem\bin\Debug\UserSystem.exe
+C:\Users\lakshay\source\repos\UserSystem\UserSystem\bin\Debug\UserSystem.pdb
+C:\Users\lakshay\source\repos\UserSystem\UserSystem\obj\Debug\UserSystem.csproj.AssemblyReference.cache
+C:\Users\lakshay\source\repos\UserSystem\UserSystem\obj\Debug\UserSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\lakshay\source\repos\UserSystem\UserSystem\obj\Debug\UserSystem.csproj.CoreCompileInputs.cache
+C:\Users\lakshay\source\repos\UserSystem\UserSystem\obj\Debug\UserSystem.exe
+C:\Users\lakshay\source\repos\UserSystem\UserSystem\obj\Debug\UserSystem.pdb
